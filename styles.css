@@ -1,0 +1,36 @@
+h5,h6{
+    font-family: Helvetica;    
+}
+p{
+   font-family: Garamond;
+}
+h2,h3{
+    font-family: Georgia;
+}
+.fas,.far,.fab {
+    color: rgb(27, 133, 92);
+}
+
+.logo-image{
+
+margin-top: 1rem;
+width: 15%;
+}
+
+.colored-section{
+    background-color: #2cd49c;
+}
+.container-fluid{
+    padding: 1%;
+}
+#github{
+    margin-left: 58%;
+    color: white;
+}
+#project-icon{
+    color:rgb(240, 13, 145);
+}
+.none{
+    text-decoration: none;
+    color:rgb(240, 13, 145);
+}
