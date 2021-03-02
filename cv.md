@@ -24,3 +24,9 @@ Software engineer <br>
   - 
   - 
 <br><br>
+
+## 💬 Languages
+
+**English**: C1.1 <br>
+**Russian**: native speaker
+<br><br>
