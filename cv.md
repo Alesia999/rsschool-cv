@@ -30,3 +30,8 @@ Software engineer <br>
 **English**: C1.1 <br>
 **Russian**: native speaker
 <br><br>
+
+## 🎓 Education
+**RS School** - _(Feb 2021 - Aug 2021)_
+**6-week intensive coding course** focused on basic JavaScript<br>
+(https://learn.javascript.ru/courses/jsbasic) - _(Oct 2020 - Nov 2020)_ <br>
