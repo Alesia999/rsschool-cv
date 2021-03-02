@@ -32,6 +32,6 @@ Software engineer <br>
 <br><br>
 
 ## 🎓 Education
-**RS School** - _(Feb 2021 - Aug 2021)_
+**RS School** - _(Feb 2021 - Aug 2021)_ <br>
 **6-week intensive coding course** focused on basic JavaScript<br>
 (https://learn.javascript.ru/courses/jsbasic) - _(Oct 2020 - Nov 2020)_ <br>
