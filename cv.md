@@ -7,6 +7,18 @@ Software engineer <br>
 - Learn how to build a great web-site
 - Learning the architectural structure of the codebase
 
+## Technical Skills
+
+**HTML, CSS, Bootstrap** <br>
+  - Creating web-pages
+  - Styling weg-pages using css and bootstrap
+<br><br>
+
+**JavaScript** <br>
+  - Creating simple JavaScript projects
+  - Creating web-pages using JavaScript
+<br><br>
+
 <br><br>
 
 ## 💬 Languages
