@@ -3,6 +3,9 @@ Software engineer <br>
 
 [Email](mailto:a.labocka@gmail.com) / [GitHub](https://github.com/Alesia999/) 
 
+## My Goals
+- Learn how to build a great web-site
+- Learning the architectural structure of the codebase
 
 <br><br>
 
